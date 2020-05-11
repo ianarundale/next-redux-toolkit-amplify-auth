@@ -17,8 +17,10 @@
   },
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^13.13.5",
     "@types/react": "^16.9.35",
     "aws-amplify": "^3.0.10",
-    "aws-amplify-react": "^4.1.9"
+    "aws-amplify-react": "^4.1.9",
+    "typescript": "^3.8.3"
   }
 }
